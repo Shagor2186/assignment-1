@@ -1,0 +1,141 @@
+/* 1st */
+.header {
+    width: 1600px;
+    height: 808px;
+    padding: 808 1600;
+}
+.img {
+    width: 5px;
+    height: 100px;
+}
+.back {
+    color: #151414;
+    font-weight: 700;
+    text-align: right;
+    padding: 216 231;
+    margin: 130px 250px;
+}
+.banner-tittle {
+    font-size: 60px;
+}
+/*
+.banner-sub-tittle {
+    
+}
+*/
+
+.btn-primary {
+    color: white;
+    background-color: #F15B22;
+    border: none;
+    width: 120px;
+    height: 50px;
+    font-size: 17px;
+}
+
+/* 2nd */
+.person {
+    display: flex;
+}
+div.per {
+    margin: 150px;
+    width: 200px;
+    height: 723.3px;
+}
+div.text {
+    margin: 350px;
+    width: 550px;
+    height: 400px;
+    font-size: 17px;
+}
+
+/*3rd*/
+#my {
+    text-align: center;
+    font-size: 50px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 100px;
+    width: 1141px;
+    height: 299.96px;
+    margin: 30px 20px 40px 250px;
+    padding: 20px 20px 20px 25px;
+    text-align: center;
+}
+p.skill-tittle {
+    font-size: 30px;
+    font-weight: 500;
+}
+.skill-description {
+    font-size: 20px;
+}
+
+/* 4rd */
+.con {
+    background-image: url("/images/watch.png");
+    height: 300px;
+    width: 1100px;
+    position: absolute;
+    margin-left: 200px;
+  }
+  .pos {
+    position: absolute;
+    bottom: 170px;
+    color: white;
+    font-size: 35px;
+    margin-left: 30px;
+  }
+  .btn2 {
+    position: absolute;
+    bottom: 110px;
+    color: red;
+    margin-left: 30px;
+    width: 110px;
+    height: 50px;
+    background-color: white;
+    border: solid;
+  }
+/* 5rd */
+.contect {
+    display: flex;
+    height: 500px;
+    padding: 1600 577;
+    background: #151414;
+    gap: 200px; 
+    margin-top: 500px;
+}
+
+.contect .section-tittle {
+    text-align: left;
+}
+.pad {
+    width: 485px;
+    height: 317px;
+    color: white;
+    padding-left: 100px;
+    margin: 100px;
+}
+.pad2 {
+    color: white;
+    width: 325px;
+    height: 211.74px;
+    padding: 130.26 261 235 1014;
+    margin: 100px;
+}
+.contect input[type="email"] {
+    margin-bottom: 24px;
+    width: 250px;
+    height: 50px;
+    border-style: solid;
+    background-color: black;
+
+}
+.btn {
+    color:red;
+    background-color: white;
+    font-size: 17px;
+    width: 150px;
+    height: 54px;
+}
